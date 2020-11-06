@@ -5,4 +5,4 @@ test
 /\d/ : digital [/[0-9]+/]
 /\s/ : white space (include " " and \t \n)
 /\w/ : [/[a-zA-Z0-9_]+/]
-[/^\d+$/] : ^ start is \d and $ end is \d
+[/^\d+$/] : ^ start is \d and $ end is \d 
